@@ -44,6 +44,14 @@ Vega is the EuroHPC JU supercomputer hosted by [the Institute for Information Sc
 * [General documentation](https://doc.vega.izum.si)
 * [EESSI @ Vega](https://doc.vega.izum.si/eessi)
 
+### Deucalion (Portugal)
+
+Deucalion is the EuroHPC JU supercomputer hosted by [the Minho Advanced Computing Center (MACC)](https://www.macc.fccn.pt/).
+EESSI is supported in the ARM partition of Deucalion with plans to expand to the remaining partitions.
+
+* [General documentation](https://docs.deucalion.macc.fccn.pt/)
+
+
 ---
 
 ## Other European systems
@@ -88,7 +96,7 @@ Vega is the EuroHPC JU supercomputer hosted by [the Institute for Information Sc
 #### University of Groningen
 
 * Hábrók: [General documentation](https://wiki.hpc.rug.nl/habrok/introduction/cluster_description)
-
+* Managed Linux workspace (LWP): [General documentation](https://lwpwiki.webhosting.rug.nl/) | [EESSI @ LWP](https://lwpwiki.webhosting.rug.nl/index.php/EESSI)
 
 ### Norway
 
@@ -108,6 +116,16 @@ Vega is the EuroHPC JU supercomputer hosted by [the Institute for Information Sc
 . This is a RISC-V cluster that uses [riscv.eessi.io](https://www.eessi.io/docs/repositories/riscv.eessi.io/)
 * arriesgado-hirsute: [General documentation](https://repo.hca.bsc.es/gitlab/epi-public/risc-v-vector-simulation-environment/-/wikis/HCA-RISC%E2%80%90V-clusters-user-guide)
 . This is a RISC-V cluster that uses [riscv.eessi.io](https://www.eessi.io/docs/repositories/riscv.eessi.io/)
+
+---
+
+## Systems outside of Europe
+
+### United States of America
+
+#### Michigan State University
+
+* Institute for Cyber-Enabled Research (ICER): [General documentation](https://icer.msu.edu/)
 
 ---
 
